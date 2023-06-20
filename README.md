@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sandeepa sewmini</h1>
-<h3 align="center">I'm a University Student and a Designer</h3>
+<h3 align="center"> University Student and a Designer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandee-pushpakumara&label=Profile%20views&color=0e75b6&style=flat" alt="sandee-pushpakumara" /> </p>
