@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm sandeepa sewmini</h1>
 <h3 align="center">I'm a University Student and a Designer</h3>
-<img align="right" alt="coding" width"200" height="200" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif">
+<img align="right" alt="coding" width"100" height="100" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandee-pushpakumara&label=Profile%20views&color=0e75b6&style=flat" alt="sandee-pushpakumara" /> </p>
 
